@@ -16,9 +16,9 @@ Copy the `badger.sh` to your project folder.
 
 ## Usage
 
-1. Prepare badge icon:
-    - it should have size of the bigest icon in the `AppIcon.appiconset`. Right now it is `1024x1024` px.
-    - it should have transparent background.
+1. Prepare badge icon should have:
+    - size of the bigest icon in the `AppIcon.appiconset`. Right now it is `1024x1024` px.
+    - transparent background.
 
 2. Run this command in Terminal:
 
