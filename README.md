@@ -4,7 +4,7 @@ Badger is a bash script that takes a badge image and adds it on top of App Icons
 
 ![How it works](assets/how_it_works.png)
 
-More information about how it works you can find in [this article](https://brainarchives.com/adding-badges-to-ios-app-icons/).
+You can find more information about how it works in [this article](https://brainarchives.com/adding-badges-to-ios-app-icons/).
 
 ## Requirements
 
